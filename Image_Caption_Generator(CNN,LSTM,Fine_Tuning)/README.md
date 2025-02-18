@@ -1,4 +1,4 @@
-#Image Caption Generator (CNN + LSTM with Fine-Tuning)
+# Image Caption Generator (CNN + LSTM with Fine-Tuning)
 Overview
 This project implements an Image Caption Generator using a combination of Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks. The model extracts visual features from images using a pretrained VGG16 model and generates meaningful captions using an LSTM-based sequence model.
 
